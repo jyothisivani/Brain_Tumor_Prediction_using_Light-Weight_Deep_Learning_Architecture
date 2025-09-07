@@ -1,4 +1,4 @@
-# MiniProject
+# Project
 
 Title of the Project: BRAIN TUMOR PREDICTION USING LIGHT-WEIGHT DEEP LEARNING ARCHITECTURE
 
